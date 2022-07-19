@@ -15,19 +15,21 @@ description: abel kartawinata's blog
 # for internal, make sure to include preceding slash
 nav-links:
   - name: home
-    url: /abelkartwii
+    url: /me
     external: false
   - name: blog
-    url: /abelkartwii/blog
+    url: /me/blog
     external: false
-  - name: projects
-    url: /abelkartwii/projects
-    external: true
+    
+
+#  - name: projects
+#    url: /abelkartwii/projects
+#    external: true
 
 # for the homepage image + big text next to it
 greeting_image: assets/me.jpg
 # 100-200 characters recommended
-greeting_text: Hi there, nice to meet you! My name is Abel and I use they/she pronouns.
+greeting_text: Hi there, nice to meet you! My name is Abel and I use she/they pronouns.
 
 # show blog post excerpts on blog page
 show_excerpts: false
